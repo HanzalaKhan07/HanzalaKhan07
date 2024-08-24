@@ -1,8 +1,8 @@
 <p align="center">
   <img src="https://www.ameba.com.uy/wp-content/uploads/2016/03/animacion-lobo-2.gif" alt="MasterHead"/>
 </p>
-<h1 align="center">Hi 👋, I'm Hanzala Khan</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h1 align="center">Hi 👋, I'm Hanzala</h1>
+<h3 align="center">A passionate frontend developer</h3>
 <br/>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gif">
 
@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **hanzalakhann7@gmail.com**
+- 📫 How to reach me **hanzala.connect@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 <br/>
