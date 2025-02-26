@@ -2,7 +2,7 @@
   <img src="https://www.ameba.com.uy/wp-content/uploads/2016/03/animacion-lobo-2.gif" alt="MasterHead"/>
 </p>
 <h1 align="center">Hi 👋, I'm Hanzala</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 <br/>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gif">
 
@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Full-stack School Management website**
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently exploring **Backend**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://3d-portfolio-app-omega.vercel.app/)
 
