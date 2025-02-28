@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently exploring **Backend**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://3d-portfolio-app-omega.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://https://hanzala-services.vercel.app/)
 
 - 💬 Ask me about **MERN**
 
